@@ -2,18 +2,18 @@
   "games": {
     "Wuwa": {
       "name": "Wuthering Waves",
-      "timezone": "Etc/GMT+5",
-      "dayReset": "04:00"
+      "timezone": "Cest/GMT-2",
+      "dayReset": "03:00"
     },
     "Genshin": {
       "name": "Genshin Impact",
-      "timezone": "Etc/GMT+5",
-      "dayReset": "04:00"
+      "timezone": "Cest/GMT-2",
+      "dayReset": "03:00"
     },
     "Nikki": {
       "name": "Infinity Nikki",
       "timezone": "Etc/GMT+5",
-      "dayReset": "03:00"
+      "dayReset": "02:00"
     },
     "Duett Night Abyss": {
       "name": "Duett Night Abyss",
@@ -22,8 +22,8 @@
     },
     "HSR": {
       "name": "Honkai: Star Rail",
-      "timezone": "Etc/GMT+5",
-      "dayReset": "04:00"
+      "timezone": "Cest/GMT-2",
+      "dayReset": "03:00"
     }
   },
   "events": {
