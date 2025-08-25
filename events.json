@@ -1,67 +1,37 @@
 {
   "games": {
-    "ARKNIGHTS": {
-      "name": "Arknights",
-      "timezone": "Etc/GMT+7",
+    "Wuwa": {
+      "name": "Wuthering Waves",
+      "timezone": "Etc/GMT+5",
       "dayReset": "04:00"
     },
-    "BA": {
-      "name": "Blue Archive",
-      "timezone": "Etc/UTC",
-      "dayReset": "19:00"
+    "Genshin": {
+      "name": "Genshin Impact",
+      "timezone": "Etc/GMT+5",
+      "dayReset": "04:00"
     },
-    "EPIC7": {
-      "name": "Epic Seven",
-      "timezone": "Etc/GMT",
-      "dayReset": "10:00"
+    "Nikki": {
+      "name": "Infinity Nikki",
+      "timezone": "Etc/GMT+5",
+      "dayReset": "03:00"
     },
-    "FGO": {
-      "name": "Fate/Grand Order",
-      "timezone": "US/Pacific",
+    "Duett Night Abyss": {
+      "name": "Duett Night Abyss",
+      "timezone": "Etc/GMT+5",
       "dayReset": "21:00"
     },
     "HSR": {
       "name": "Honkai: Star Rail",
       "timezone": "Etc/GMT+5",
-      "dayReset": "04:00"
-    },
-    "MAGIRECO": {
-      "name": "Magia Record",
-      "timezone": "Asia/Tokyo",
-      "dayReset": "00:00"
-    },
-    "NC": {
-      "name": "Neural Cloud",
-      "timezone": "Etc/GMT+8",
-      "dayReset": "05:00"
-    },
-    "NIKKE": {
-      "name": "GODDESS OF VICTORY: NIKKE",
-      "timezone": "Etc/GMT-9",
-      "dayReset": "05:00"
-    },
-    "PRICONNE": {
-      "name": "Princess Connect! Re:Dive",
-      "timezone": "Asia/Tokyo",
-      "dayReset": "05:00"
-    },
-    "SIF2": {
-      "name": "Love Live! School idol festival 2 MIRACLE LIVE!",
-      "timezone": "Asia/Tokyo",
-      "dayReset": "00:00"
-    },
-    "SNOWBREAK": {
-      "name": "Snowbreak: Containment Zone",
-      "timezone": "Etc/GMT-8",
-      "dayReset": "04:00"
+      "dayReset": "04:00
     }
   },
   "events": {
-    "ARKNIGHTS": [
+    "Wuwa": [
       {
-        "event": "Chongyue/Lin",
-        "start": "2023-08-01 04:00",
-        "end": "2023-08-11 03:59"
+        "event": "Hunt of Ash and Steel",
+        "start": "2025-08-28 04:00",
+        "end": "2025-10-08 03:59"
       }
     ],
     "EPIC7": [
